@@ -29,7 +29,8 @@ BlinkIT wants to:
 
 🖼 Dashboard Preview
 
-https://github.com/karandukare/BlinkIT-Sales-Dashboard-/blob/main/BlinkIT%20Sales%20Dashboard.png
+![BlinkIT Sales Dashboard](https://github.com/user-attachments/assets/05326429-eb04-45cb-aeba-61361ff913c0)
+
 
 ▶️ How to Use
 1. Open the `.pbix` file in Power BI Desktop.
