@@ -28,6 +28,7 @@ BlinkIT wants to:
 - Analyze trends across tiers and years
 
 🖼 Dashboard Preview
+
 https://github.com/karandukare/BlinkIT-Sales-Dashboard-/blob/main/BlinkIT%20Sales%20Dashboard.png
 
 ▶️ How to Use
